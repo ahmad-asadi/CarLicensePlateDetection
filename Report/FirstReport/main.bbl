@@ -110,4 +110,14 @@ S.~Du, M.~Ibrahim, M.~Shehata, and W.~Badawy, ``Automatic license plate
 
 \end{LTRbibitems}
 
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{capar2006concurrent}
+A.~Capar and M.~Gokmen, ``Concurrent segmentation and recognition with
+  shape-driven fast marching methods,''  in {\em Pattern Recognition, 2006.
+  ICPR 2006. 18th International Conference on},  vol.1,  pp.155--158, IEEE,
+  2006.
+
+\end{LTRbibitems}
+
 \end{thebibliography}

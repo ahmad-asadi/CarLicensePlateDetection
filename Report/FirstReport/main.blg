@@ -3,48 +3,50 @@ Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: main.aux
 The style file: ieeetr-fa.bst
 Database file #1: ref.bib
+Warning--I didn't find a database entry for "guo2008licence"
 -- ieeetr-fa.bst version 0.6 (2011/07/01) 
 -- This is a BibTeX style for XePersian: http://www.parsilatex.com
 
 Done.
-You've used 11 entries,
+You've used 12 entries,
             2349 wiz_defined-function locations,
-            673 strings with 7253 characters,
-and the built_in function-call counts, 4510 in all, are:
-= -- 417
-> -- 133
+            680 strings with 7485 characters,
+and the built_in function-call counts, 4899 in all, are:
+= -- 455
+> -- 141
 < -- 0
-+ -- 48
-- -- 37
-* -- 296
-:= -- 528
-add.period$ -- 11
-call.type$ -- 11
-change.case$ -- 11
++ -- 51
+- -- 39
+* -- 319
+:= -- 571
+add.period$ -- 12
+call.type$ -- 12
+change.case$ -- 12
 chr.to.int$ -- 0
-cite$ -- 11
-duplicate$ -- 222
-empty$ -- 397
-format.name$ -- 37
-if$ -- 1229
+cite$ -- 12
+duplicate$ -- 242
+empty$ -- 434
+format.name$ -- 39
+if$ -- 1337
 int.to.chr$ -- 0
-int.to.str$ -- 11
-missing$ -- 119
-newline$ -- 83
-num.names$ -- 11
-pop$ -- 53
+int.to.str$ -- 12
+missing$ -- 129
+newline$ -- 90
+num.names$ -- 12
+pop$ -- 58
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 169
+skip$ -- 186
 stack$ -- 0
-substring$ -- 360
-swap$ -- 101
+substring$ -- 392
+swap$ -- 110
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 4
 type$ -- 0
 warning$ -- 0
-while$ -- 44
-width$ -- 13
-write$ -- 153
+while$ -- 48
+width$ -- 14
+write$ -- 167
+(There was 1 warning)
