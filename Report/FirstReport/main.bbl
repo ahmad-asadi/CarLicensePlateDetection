@@ -112,11 +112,50 @@ S.~Du, M.~Ibrahim, M.~Shehata, and W.~Badawy, ``Automatic license plate
 
 \begin{LTRbibitems}
 \resetlatinfont
+\bibitem{guo2008license}
+J.-M. Guo and Y.-F. Liu, ``License plate localization and character
+  segmentation with feedback self-learning and hybrid binarization
+  techniques,'' {\em IEEE Transactions on Vehicular Technology},  vol.57,
+  no.3,  pp.1417--1424, 2008.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
 \bibitem{capar2006concurrent}
 A.~Capar and M.~Gokmen, ``Concurrent segmentation and recognition with
   shape-driven fast marching methods,''  in {\em Pattern Recognition, 2006.
   ICPR 2006. 18th International Conference on},  vol.1,  pp.155--158, IEEE,
   2006.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{shuang2005number}
+T.~Shuang-tong and L.~Wen-ju, ``Number and letter character recognition of
+  vehicle license plate based on edge hausdorff distance,''  in {\em Parallel
+  and Distributed Computing, Applications and Technologies, 2005. PDCAT 2005.
+  Sixth International Conference on},  pp.850--852, IEEE, 2005.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{rahman2003real}
+C.~A. Rahman, W.~Badawy, and A.~Radmanesh, ``A real time vehicle's license
+  plate recognition system,''  in {\em Advanced Video and Signal Based
+  Surveillance, 2003. Proceedings. IEEE Conference on},  pp.163--166, IEEE,
+  2003.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{jiao2009configurable}
+J.~Jiao, Q.~Ye, and Q.~Huang, ``A configurable method for multi-style license
+  plate recognition,'' {\em Pattern Recognition},  vol.42,  no.3,  pp.358--369,
+  2009.
 
 \end{LTRbibitems}
 

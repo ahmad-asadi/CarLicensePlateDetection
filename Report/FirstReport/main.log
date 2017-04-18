@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.1415926-2.5-0.9999.3 (TeX Live 2013/Debian) (format=xelatex 2016.4.13)  17 APR 2017 12:01
+This is XeTeX, Version 3.1415926-2.5-0.9999.3 (TeX Live 2013/Debian) (format=xelatex 2016.4.13)  18 APR 2017 15:47
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1383,33 +1383,27 @@ Overfull \hbox (3.03741pt too wide) in paragraph at lines 205--206
 سازی نویسه‌ها در پلاک تشخیص‌[]
  []
 
-[4]
-
-LaTeX Warning: Citation `guo2008licence' on page 5 undefined on input line 212.
-
-
-[5]
+[4] [5]
 File: Imgs/seg1.png Graphic file (type QTm)
- <use  "Imgs/seg1.png" > (./main.bbl [6] [7])
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 232.
- [8]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 232.
+ <use  "Imgs/seg1.png" > [6] [7]
+File: Imgs/ann2.png Graphic file (type QTm)
+ <use  "Imgs/ann2.png" > (./main.bbl
+[8] [9] [10])
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 299.
+ [11]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 299.
  (./main.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 232.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 232.
-
-
-LaTeX Warning: There were undefined references.
-
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 232.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 299.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 299.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 299.
  ) 
 Here is how much of TeX's memory you used:
- 23661 strings out of 493918
- 435153 string characters out of 6150563
- 508463 words of memory out of 5000000
- 26568 multiletter control sequences out of 15000+600000
+ 23671 strings out of 493918
+ 435291 string characters out of 6150563
+ 510463 words of memory out of 5000000
+ 26577 multiletter control sequences out of 15000+600000
  10872 words of font info for 107 fonts, out of 8000000 for 9000
  1144 hyphenation exceptions out of 8191
- 45i,8n,47p,10454b,499s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 45i,8n,47p,10454b,510s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on main.pdf (10 pages).
+Output written on main.pdf (13 pages).
