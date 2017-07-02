@@ -123,6 +123,33 @@ CarLicensePlateDetection/fast:
 	$(MAKE) -f CMakeFiles/CarLicensePlateDetection.dir/build.make CMakeFiles/CarLicensePlateDetection.dir/build
 .PHONY : CarLicensePlateDetection/fast
 
+LPRegistrar.o: LPRegistrar.cpp.o
+
+.PHONY : LPRegistrar.o
+
+# target to build an object file
+LPRegistrar.cpp.o:
+	$(MAKE) -f CMakeFiles/CarLicensePlateDetection.dir/build.make CMakeFiles/CarLicensePlateDetection.dir/LPRegistrar.cpp.o
+.PHONY : LPRegistrar.cpp.o
+
+LPRegistrar.i: LPRegistrar.cpp.i
+
+.PHONY : LPRegistrar.i
+
+# target to preprocess a source file
+LPRegistrar.cpp.i:
+	$(MAKE) -f CMakeFiles/CarLicensePlateDetection.dir/build.make CMakeFiles/CarLicensePlateDetection.dir/LPRegistrar.cpp.i
+.PHONY : LPRegistrar.cpp.i
+
+LPRegistrar.s: LPRegistrar.cpp.s
+
+.PHONY : LPRegistrar.s
+
+# target to generate assembly for a file
+LPRegistrar.cpp.s:
+	$(MAKE) -f CMakeFiles/CarLicensePlateDetection.dir/build.make CMakeFiles/CarLicensePlateDetection.dir/LPRegistrar.cpp.s
+.PHONY : LPRegistrar.cpp.s
+
 main.o: main.cpp.o
 
 .PHONY : main.o
@@ -159,6 +186,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... CarLicensePlateDetection"
+	@echo "... LPRegistrar.o"
+	@echo "... LPRegistrar.i"
+	@echo "... LPRegistrar.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"

@@ -86,6 +86,12 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="/home/ahmad/Programs/Programming/CarLicensePlateDetection/LPRegistrar.cpp">
+			<Option target="CarLicensePlateDetection"/>
+		</Unit>
+		<Unit filename="/home/ahmad/Programs/Programming/CarLicensePlateDetection/LPRegistrar.h">
+			<Option target="CarLicensePlateDetection"/>
+		</Unit>
 		<Unit filename="/home/ahmad/Programs/Programming/CarLicensePlateDetection/main.cpp">
 			<Option target="CarLicensePlateDetection"/>
 		</Unit>

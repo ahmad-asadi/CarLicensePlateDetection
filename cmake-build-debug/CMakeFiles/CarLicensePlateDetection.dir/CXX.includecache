@@ -6,8 +6,22 @@
 
 #IncludeRegexTransform: 
 
+/home/ahmad/Programs/Programming/CarLicensePlateDetection/LPRegistrar.cpp
+LPRegistrar.h
+/home/ahmad/Programs/Programming/CarLicensePlateDetection/LPRegistrar.h
+
+/home/ahmad/Programs/Programming/CarLicensePlateDetection/LPRegistrar.h
+iostream
+-
+string
+-
+sstream
+-
+
 /home/ahmad/Programs/Programming/CarLicensePlateDetection/main.cpp
 iostream
+-
+dirent.h
 -
 opencv2/core.hpp
 /home/ahmad/Programs/Programming/CarLicensePlateDetection/opencv2/core.hpp
@@ -15,6 +29,8 @@ opencv2/highgui.hpp
 /home/ahmad/Programs/Programming/CarLicensePlateDetection/opencv2/highgui.hpp
 opencv2/imgproc.hpp
 /home/ahmad/Programs/Programming/CarLicensePlateDetection/opencv2/imgproc.hpp
+LPRegistrar.h
+/home/ahmad/Programs/Programming/CarLicensePlateDetection/LPRegistrar.h
 
 /usr/local/include/opencv/cxcore.h
 opencv2/core/core_c.h

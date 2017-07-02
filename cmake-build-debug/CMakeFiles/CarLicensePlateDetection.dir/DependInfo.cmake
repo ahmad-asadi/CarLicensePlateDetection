@@ -4,6 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
+  "/home/ahmad/Programs/Programming/CarLicensePlateDetection/LPRegistrar.cpp" "/home/ahmad/Programs/Programming/CarLicensePlateDetection/cmake-build-debug/CMakeFiles/CarLicensePlateDetection.dir/LPRegistrar.cpp.o"
   "/home/ahmad/Programs/Programming/CarLicensePlateDetection/main.cpp" "/home/ahmad/Programs/Programming/CarLicensePlateDetection/cmake-build-debug/CMakeFiles/CarLicensePlateDetection.dir/main.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")

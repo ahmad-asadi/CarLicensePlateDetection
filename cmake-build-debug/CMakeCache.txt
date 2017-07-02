@@ -184,6 +184,9 @@ CarRegPlateDetection_BINARY_DIR:STATIC=/home/ahmad/Programs/Programming/CarLicen
 //Value Computed by CMake
 CarRegPlateDetection_SOURCE_DIR:STATIC=/home/ahmad/Programs/Programming/CarLicensePlateDetection
 
+//Path to a library.
+NETSDK:FILEPATH=/usr/lib/libxmnetsdk.so
+
 //The directory containing a CMake configuration file for OpenCV.
 OpenCV_DIR:PATH=/usr/local/share/OpenCV
 
@@ -192,6 +195,9 @@ ProcessorCount_cmd_getconf:FILEPATH=/usr/bin/getconf
 
 //Path to a program.
 ProcessorCount_cmd_sysctl:FILEPATH=/sbin/sysctl
+
+//Dependencies for target
+botan_LIB_DEPENDS:STATIC=
 
 
 ########################
